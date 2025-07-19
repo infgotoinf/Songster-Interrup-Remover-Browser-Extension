@@ -1,5 +1,5 @@
 # Songster Interrupt Remover chrome/egde extension
-###### The stupidest usful thing I've ever done
+###### The stupidest useful thing I've ever done
 Gererated via AI and made in litteraly 5 minutes extension that's only purpose is to remove annoing "Subscribe to Plus for Original audio syncing without interruptions" pop-up by automaticly clicking "continue with interruptions", that's it.
 
 ---
